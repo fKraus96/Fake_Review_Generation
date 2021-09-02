@@ -1,5 +1,7 @@
 # fake_review_generation
 
+Kraus Fabian - Juzova Silvia - Caruso Alessandro - Gazzaneo Rocco - Rezai Arian
+
 ### **Can generated text through a language model accurately predict the sentiment of a real restaurant review ? - A case study on high-end restaurants in the United States**
 
 
